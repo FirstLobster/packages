@@ -1,11 +1,11 @@
 {
 	"name": "loopia.se",
 	"ipv4": {
-		"url": "http://[USERNAME]:[PASSWORD]@dns.loopia.se/XDynDNSServer/XDynDNS.php?system=custom&hostname=[DOMAIN]&myip=[IP]",
+		"url": "http://[USERNAME]:[PASSWORD]@dns.loopia.se/XDynDNSServer/XDynDNS.php?system=custom&hostname=[DOMAIN]&myip=[IP]&wildcard=NOCHG",
 		"answer": "good|nochg"
 	},
 	"ipv6": {
-		"url": "http://[USERNAME]:[PASSWORD]@dns.loopia.se/XDynDNSServer/XDynDNS.php?system=custom&hostname=[DOMAIN]&myip=[IP]",
+		"url": "http://[USERNAME]:[PASSWORD]@dns.loopia.se/XDynDNSServer/XDynDNS.php?system=custom&hostname=[DOMAIN]&myip=[IP]&wildcard=NOCHG",
 		"answer": "good|nochg"
 	}
 }
